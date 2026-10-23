@@ -7,6 +7,7 @@ namespace elexamen.Ejercicios
         {
             double precio=0, subtotal, total, descuento;
             int i=5;
+            Console.WriteLine("----------------------------------");
             Console.WriteLine("Ingrese el tipo de combustible:");
             Console.WriteLine("1 = regular");
             Console.WriteLine("2 = premium");

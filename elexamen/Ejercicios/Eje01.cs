@@ -7,6 +7,7 @@ namespace elexamen.Ejercicios
         {
 
             decimal prezone=0, recargo, descuento=0, seguro=0, servicio=0, subtotal, total;
+            Console.WriteLine("----------------------------------");
             Console.WriteLine("Ingrese el nombre del cliente:");
             string name = Console.ReadLine();
 
